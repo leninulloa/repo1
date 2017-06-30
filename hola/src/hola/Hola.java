@@ -18,6 +18,7 @@ public class Hola {
         // TODO code application logic here
         System.out.println("se cambio? confirmaa");
         System.out.println("Hola");
+         System.out.println("Adios");
     }
     
 }
