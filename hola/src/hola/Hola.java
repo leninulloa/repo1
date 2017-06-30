@@ -19,6 +19,7 @@ public class Hola {
         System.out.println("se cambio? confirmaa");
         System.out.println("Hola");
          System.out.println("Adios");
+        System.out.println("hola mijin");
     }
     
 }
